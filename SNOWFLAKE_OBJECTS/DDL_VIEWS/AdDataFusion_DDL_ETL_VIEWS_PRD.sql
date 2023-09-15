@@ -267,7 +267,7 @@ WHERE CURR_REC_IND = 'Y'
                          );
 
 --##############################################################################
-CREATE OR REPLACE VIEW VW_CHANGES_TO_CD2_CREATIVE(
+CREATE OR REPLACE VIEW ADDATAFUSION.FACEBOOK_ADS.VW_CHANGES_TO_CD2_CREATIVE(
 	ROW_CHANGE_DC,
 	CREATIVE_ID,
 	CREATIVE_NM,
